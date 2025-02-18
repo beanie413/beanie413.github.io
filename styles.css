@@ -11,5 +11,11 @@ h4{
     color:darkgreen;font-size: medium;
 }
 body{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: small;
+    font-family:'Trebuchet MS';font-size: small;
+}
+.box{
+    width: 100px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
 }
