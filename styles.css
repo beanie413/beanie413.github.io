@@ -1,6 +1,15 @@
+h1{
+    font-size: x-large;
+}
+h2{
+    font-size: large;
+}
+h3{
+    font-size: larger;
+}
 h4{
-    color:darkgreen;
+    color:darkgreen;font-size: medium;
 }
 body{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;font-size: small;
 }
