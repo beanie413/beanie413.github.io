@@ -2,7 +2,7 @@ h1{
     font-size: xx-large;
 }
 h2{
-    font-size: larger;
+    font-size: x-large;
 }
 h3{
     font-size: large;
@@ -24,4 +24,5 @@ body{
     width: 200px;
     border: 20px;color: black;
     margin: 30px;
+    background-color: black;
 }
