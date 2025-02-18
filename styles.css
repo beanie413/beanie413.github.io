@@ -14,8 +14,9 @@ body{
     font-family:'Trebuchet MS';font-size: small;
 }
 .box{
-    width: 100px;
+  height: 10px;
+  width: 300px;
   border: 15px;
-  padding: 50px;
-  margin: 20px;
+  padding: 5px;
+  margin: 2px;
 }
