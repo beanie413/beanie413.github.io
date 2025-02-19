@@ -17,10 +17,10 @@ body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .box{
-  margin: 5px;
+  margin: 3px;
 }
 .border{
     border: 5px;color: black;
     padding: 1px;
-    margin: 30px;
+    margin: 20px;
 }
