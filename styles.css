@@ -17,6 +17,7 @@ body{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .box{
+  height: 250px;
   margin: 10px;
 }
 .border{
