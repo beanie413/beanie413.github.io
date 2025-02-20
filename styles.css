@@ -1,14 +1,20 @@
 h1{
     font-size: xx-large;
+    text-align: center;
 }
 h2{
     font-size: x-large;
+    text-align: center;
 }
 h3{
-    font-size: large;
+    font-size: small;
+    text-align: right;
 }
 h4{
-    color:darkgreen;font-size: medium;
+    color:#349855;font-size: medium;
+}
+h5{
+    font-size: x-large;
 }
 p{
     font-size: small;
@@ -17,10 +23,18 @@ body{
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 .box{
+  padding: 5px;
   margin: 3px;
+  background-color: #606080;
 }
 .border{
-    border: 5px;color: black;
-    padding: 1px;
+    padding: 10px;
     margin: 20px;
+    background-color: black;
+}
+.header{
+    width: fit-content;
+    background-image: href="https://imageio.forbes.com/blogs-images/ofx/files/2018/09/OFX3-iStock-492595743-1200x800.jpg?format=jpg&height=900&width=1600&fit=bounds";
+    margin-bottom: 10px;
+
 }
