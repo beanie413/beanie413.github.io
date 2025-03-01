@@ -1,40 +1,90 @@
-h1{
-    font-size: xx-large;
-    text-align: center;
-}
-h2{
-    font-size: x-large;
-    text-align: center;
-}
-h3{
-    font-size: small;
-    text-align: right;
-}
-h4{
-    color:#349855;font-size: medium;
-}
-h5{
-    font-size: x-large;
-}
-p{
-    font-size: small;
-}
-body{
-    font-family:Georgia, 'Times New Roman', Times, serif
-}
-.box{
-  padding: 5px;
-  margin: 3px;
-  background-color: #606080;
-}
-.border{
-    padding: 10px;
-    margin: 20px;
-    background-color: black;
-}
 .header{
+    height: 100px;
+    background-color: #7B1212;
+}
+.attention{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    color: #ffffff;
+}
+.headbutton{
+    font-size: x-large;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000000;
+    padding: 10px;
+    margin-top: 50px;
+}
+.bodyleft{
+    align-items: left;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    width: 600px;
+    margin-left: 120px;
+    margin-right: 40px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.bodyright{
+    align-items: right;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    width: 600px;
+    margin-left: 940px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.footer{
+    background-color: #7B1212;
+    height: 200px;
+    font-size: x-small;
+    color: #000000;
+    position: static;
+    margin-top: 150px;
+}
+.imageleft{
+    padding: auto;
+    margin-right: 300px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.imageright{
+    padding: auto;
+    margin-left: 1000px;
+    margin-right: 300px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.lefthead{
+    margin-bottom: 20px;
+    margin-top: 125px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+.righthead{
+    margin-bottom: 20px;
+    margin-top: 125px;
+    margin-left: 975px;
+    margin-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+.background{
+    background-color: #000000;
+    height: fit-content;
     width: fit-content;
-    background-image: href="https://imageio.forbes.com/blogs-images/ofx/files/2018/09/OFX3-iStock-492595743-1200x800.jpg?format=jpg&height=900&width=1600&fit=bounds";
-    margin-bottom: 10px;
-
+}
+.container {
+    position: relative;
+}
+.centeredtop {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 80px;
 }
